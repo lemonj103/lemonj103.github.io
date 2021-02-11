@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>The Rustic Shelf</title>
+<meta name="generator" content="Jekyll v4.1.1" />
+<meta property="og:title" content="The Rustic Shelf" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description." />
+<meta property="og:description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description." />
+<link rel="canonical" href="http://localhost:4000/-site" />
+<meta property="og:url" content="http://localhost:4000/-site" />
+<meta property="og:site_name" content="The Rustic Shelf" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="The Rustic Shelf" />
+<script type="application/ld+json">
+{"headline":"The Rustic Shelf","description":"Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.","@type":"WebSite","url":"https://www.therusticshelf.com","name":"Your awesome title","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link type="application/atom+xml" rel="alternate" href="http://localhost:4000/-site/feed.xml" title="The Rustic Shelf" /></head>
+<style>
+body, html {
+  height: 100%;
+  font-family: "Inconsolata", sans-serif;
+  color: #C2BAAE;
+}
+
+.bgimg {
+  background-position: center;
+  background-size: cover;
+  background-image: url("rShelfimages/emre-can.jpg");
+  min-height: 75%;
+  }
+</style>
+<body>
+
+
+
+<!-- Links (sit on top) -->
+<div class="w3-top">
+  <div class="w3-row w3-padding w3-brown">
+    <div class="w3-col s3">
+      <a href="#HOME" class="w3-button w3-block w3-brown">HOME</a>
+    </div>
+    <div class="w3-col s3">
+      <a href="#ABOUT" class="w3-button w3-block w3-brown">ABOUT</a>
+    </div>
+    <div class="w3-col s3">
+      <a href="#BOOKS" class="w3-button w3-block w3-brown">BOOKS</a>
+    </div>
+    <div class="w3-col s3">
+      <a href="#WHERE" class="w3-button w3-block w3-brown">CONTACT</a>
+    </div>
+  </div>
+</div>
+
+<!-- Header with image -->
+<header class="bgimg w3-display-container w3-grayscale-min" id="HOME">
+  <div class="w3-display-bottomleft w3-center w3-padding-large w3-hide-small">
+    <span class="w3-tag">Open from 6am to 5pm</span>
+  </div>
+  <div class="w3-display-middle w3-center">
+    <span< style="font-family: Verdana,serif;font-size:50px;background-color:rgba(28,25,23, 0.7);color:#C2BAAE;padding-bottom: 0px;">The Rustic Shelf <br>Coming Soon</span>
+    <p style="background-color:rgba(28,25,23, 0.7);color:#C2BAAE;padding-top: 0px;" id="demo"></p>
+
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="091bcbcfbf5817e5ad7bb250-|49" defer=""></script>
+  </div>
+  <div class="w3-display-bottomright w3-center w3-padding-large">
+    <span class="w3-text-white w3-brown" id="photo-creds">Photo by <a href="https://www.pexels.com/@emrecan">Emre Can</a> from <a href="https://www.pexels.com/photo/brass-colored-chandelier-2079451/">Pexels</a></span>
+  </div>
+</header>
+
+<!-- Add a background color and large text to the whole page -->
+<div class="w3-sand w3-grayscale w3-large">
+
+<!-- About Container -->
+<div class="w3-container" id="ABOUT">
+  <div class="w3-content" style="max-width:700px">
+    <h5 class="w3-center w3-padding-64"><span class="w3-tag w3-wide">ABOUT THE RUSTIC SHELF</span></h5>
+    <p>The Rustic Shelf is a dream of mine. I love the idea of having a huge collection of books and a relaxing area to read and rest.</p>
+    <p>I won't sell a book in bad shape. I'm not happy when I buy books and they fall apart, so I don't expect you to be. Please let me know if your happy with your book. If not you will get a full refund. No questions asked. If you would like to tell me, what I did wrong, it would help greatly, for continued service to you and for me to learn how to improve for others in the future.</p>
+    <div class="w3-panel w3-leftbar w3-light-grey">
+      <p><i>"Books need a binding that will hold together for years to come." Used books are recycled knowledge. At a much cheaper price.</i></p>
+      <p>Curator, The Rustic Shelf, Owner: James Lemon</p>
+    </div>
+    <div>
+    <img src="rShelfimages/globe.jpg" style="width:100%;max-width:1000px" class="w3-margin-top">
+    <span class="w3-text-white w3-brown" id="photo-creds">Photo by <a href="https://www.pexels.com/@ekrulila">Ekrulila</a> from <a href="https://www.pexels.com/photo/old-books-and-globe-in-library-3837494/">Pexels</a></span>
+  </div>
+    <p><strong>Opening hours:</strong> everyday from 6am to 5pm.</p>
+  </div>
+</div>
+</div>
+
+<!-- Menu Container -->
+  <div id="BOOKS" class="w3-row w3-grayscale" style="background-color:#1C1917;">
+
+    <div class="w3-col l3 s6">
+      <div class="w3-container">
+        <div class="w3-display-container">
+        <img src="rShelfimages/books.jpg" style="width:100%">
+        <form class="w3-display-middle w3-display-hover">
+          <button formaction="https://www.amazon.com/" class="w3-button w3-brown">Buy now <i class="fa fa-shopping-cart"></i></button>
+        </form>
+        <p>books<br><b>$24.99</b></p>
+      </div>
+    </div>
+  </div>
+
+      <div class="w3-col l3 s6">
+      <div class="w3-container">
+        <div class="w3-display-container">
+        <img src="rShelfimages/books.jpg" style="width:100%">
+        <form class="w3-display-middle w3-display-hover">
+          <button formaction="https://www.amazon.com/" class="w3-button w3-brown">Buy now <i class="fa fa-shopping-cart"></i></button>
+        </form>
+        <p>books<br><b>$19.99</b></p>
+      </div>
+    </div>
+  </div>
+
+    <div class="w3-col l3 s6">
+      <div class="w3-container">
+        <div class="w3-display-container">
+          <img src="rShelfimages/books.jpg" style="width:100%">
+          <form class="w3-display-middle w3-display-hover">
+            <button formaction="https://www.amazon.com/" class="w3-button w3-brown">Buy now <i class="fa fa-shopping-cart"></i></button>
+          </form>
+  <p>books<br><b>$19.99</b></p>
+</div>
+</div>
+</div>
+
+    <div class="w3-col l3 s6">
+    <div class="w3-container">
+      <div class="w3-display-container">
+        <img src="rShelfimages/books.jpg" style="width:100%">
+        <form class="w3-display-middle w3-display-hover">
+          <button formaction="https://www.amazon.com/" class="w3-button w3-brown">Buy now <i class="fa fa-shopping-cart"></i></button>
+        </form>
+        <p>books<br><b>$20.50</b></p>
+      </div>
+    </div>
+  </div>
+
+    <div class="w3-col l3 s6">
+      <div class="w3-container">
+        <div class="w3-display-container">
+        <img src="rShelfimages/books.jpg" style="width:100%">
+        <form class="w3-display-middle w3-display-hover">
+          <button formaction="https://www.amazon.com/" class="w3-button w3-brown">Buy now <i class="fa fa-shopping-cart"></i></button>
+        </form>
+        <p>books<br><b>$20.50</b></p>
+      </div>
+    </div>
+  </div>
+
+      <div class="w3-col l3 s6">
+      <div class="w3-container">
+        <div class="w3-display-container">
+          <img src="rShelfimages/books.jpg" style="width:100%">
+          <form class="w3-display-middle w3-display-hover">
+            <button formaction="https://www.amazon.com/" class="w3-button w3-brown">Buy now <i class="fa fa-shopping-cart"></i></button>
+          </form>
+        <p>books<br><b class="w3-text-red">$14.99</b></p>
+      </div>
+    </div>
+  </div>
+
+    <div class="w3-col l3 s6">
+      <div class="w3-container">
+        <div class="w3-display-container">
+        <img src="rShelfimages/books.jpg" style="width:100%">
+        <form class="w3-display-middle w3-display-hover">
+          <button formaction="https://www.amazon.com/" class="w3-button w3-brown">Buy now <i class="fa fa-shopping-cart"></i></button>
+        </form>
+        <p>books<br><b>$14.99</b></p>
+      </div>
+    </div>
+  </div>
+
+      <div class="w3-col l3 s6">
+      <div class="w3-container">
+        <div class="w3-display-container">
+        <img src="rShelfimages/books.jpg" style="width:100%">
+        <form class="w3-display-middle w3-display-hover">
+          <button formaction="https://www.amazon.com/" class="w3-button w3-brown">Buy now <i class="fa fa-shopping-cart"></i></button>
+        </form>
+        <p>books<br><b>$24.99</b></p>
+      </div>
+
+    </div>
+    </div>
+  </div>
+
+<!-- Contact/Area Container -->
+<div class="w3-container" id="WHERE" style="padding-bottom:32px;background-color:#1C1917;">
+  <div class="w3-content" style="max-width:700px">
+    <h5 class="w3-center w3-padding-48"><span class="w3-tag w3-wide">WE SHIP BOOKS OURSELVES<br>
+      FULLFILLED BY MERCHANT</span></h5>
+    <p>5090 Avocado Park Ln. Fallbrook CA, 92028</p>
+    <img src="rShelfimages/fallbrook.jpg" class="w3-image" style="width:100%">
+    <p><span style="background-color:#C2BAAE;color:#1C1917;">FYI!</span> We offer a 30 day gauranteed full refund, no questions asked, starting from the day delivered.</p>
+    <form action="mailto:james@therusticshelf.com" target="_self">
+      <p><input class="w3-input w3-padding-16 w3-border" style="background-color:#C2BAAE;color:#1C1917;" type="text" placeholder="Name" required name="Name"></p>
+      <p><input class="w3-input w3-padding-16 w3-border" style="background-color:#C2BAAE;color:#1C1917;" type="email" placeholder="Enter email here" required name="Email"></p>
+      <p><button  class="w3-button" style="background-color:#C2BAAE;color:#1C1917;" type="submit">SEND MESSAGE</button></p>
+    </form>
+  </div>
+</div>
+
+<!-- End page content -->
+</div>
+
+<!-- Footer -->
+<footer class="w3-center w3-brown w3-padding-48 w3-large">
+  <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-text-brown">w3.css</a></p>
+</footer>
+
+<script>
+// Tabbed Menu
+
+</script>
+
+</body>
+</html>
